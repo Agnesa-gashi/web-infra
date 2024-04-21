@@ -14,7 +14,7 @@ spec:
   # Source of the application manifests
   source:
     repoURL: 'git@github.com:Agnesa-gashi/web-infra.git'
-    path: helm/web-client
+    path: helm/web-client-sample
     targetRevision: HEAD
     helm:
       valueFiles:
